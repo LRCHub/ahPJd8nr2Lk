@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Dive In Your Eyes",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T16:27:40.725994Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dive In Your Eyes",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/01_Dive_In_Your_Eyes_NANO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dive In Your Eyes",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/02_Dive_In_Your_Eyes_ナノ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dive In Your Eyes",
+      "artist": "ナノ x buzzG",
+      "has_synced": false,
+      "path": "select/pl_01_Dive_In_Your_Eyes_ナノ_x_buzzG.txt"
+    }
+  ]
+}
